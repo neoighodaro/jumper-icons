@@ -8,6 +8,7 @@ To contribute, you need to submit a PR to this repository's master branch with t
 
 ### How to submit a PR
 
+-----
 
 ## Contribution Rules
 
