@@ -4,7 +4,9 @@ The home for application icons on Jumper. To update you need to submit a pull re
 
 ## How to contribute
 
-TBD
+To contribute, you need to submit a PR to this repository's master branch with the icon you want to add.
+
+### How to submit a PR
 
 
 ## Contribution Rules
@@ -15,4 +17,4 @@ Since this is intended as a community resource, please make sure you follow the 
 - Icon name must have the bundle ID of the application and suffixed with "@2x". Example: *com.apple.Maps@2x*
 - Icon must be a ".png" image file
 - Icon must have a "black" fill or outline. Example: https://www.flaticon.com/free-icon/instagram_1384031
-- Icon has to be an exact (or close enough) representation of the app
+- Icon has to be an exact (or close enough) representation of the original app icon
