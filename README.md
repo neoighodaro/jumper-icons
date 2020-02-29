@@ -4,10 +4,10 @@ The home for application icons on Jumper. To update you need to submit a pull re
 
 ## How to contribute
 
-To contribute, you need to submit a PR to this repository's master branch with the icon you want to add.
+To contribute, you need to submit a pull request to this repository's master branch with the icon you want to add.
 
 ### How to submit a PR
-TBD
+You can maybe follow this guide if you don't know how to submit pull requests https://flaviocopes.com/how-to-make-first-github-pull-request/
 
 ## Contribution Rules
 
