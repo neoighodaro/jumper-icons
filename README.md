@@ -7,8 +7,7 @@ The home for application icons on Jumper. To update you need to submit a pull re
 To contribute, you need to submit a PR to this repository's master branch with the icon you want to add.
 
 ### How to submit a PR
-
------
+TBD
 
 ## Contribution Rules
 
