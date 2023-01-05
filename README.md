@@ -15,6 +15,7 @@ Since this is intended as a community resource, please make sure you follow the 
 
 - Icon must be 50x50
 - Icon name must have the bundle ID of the application and suffixed with "@2x". 
-  - Default app icons with regular color must follow the naming format: com.apple.Maps-default@2x_.png_
-  - Stylable app icons must follow the naming format: com.apple.Maps-styled@2x**.png** and it must have a black fill, [for example](https://www.flaticon.com/free-icon/instagram_1384031).
+  - Default app icons with regular color must follow the naming format: com.apple.Maps-default@2x
+  - Stylable app icons must follow the naming format: com.apple.Maps-styled@2x and it must have a black fill, [for example](https://www.flaticon.com/free-icon/instagram_1384031).
+- Icons must be a .png file
 - Icon has to be an exact (or close enough) representation of the original app icon
