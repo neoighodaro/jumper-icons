@@ -14,6 +14,7 @@ You can maybe follow this guide if you don't know how to submit pull requests ht
 Since this is intended as a community resource, please make sure you follow the rules to submitting icons.
 
 - Icon must be 50x50
-- Icon name must have the bundle ID of the application and suffixed with "@2x". Example: *com.apple.Maps-default@2x* (for the regular colored app icon) and/or *com.apple.Maps-styled@2x* (for styled icons which should have a black fill: https://www.flaticon.com/free-icon/instagram_1384031)
-- Icon must be a ".png" image file
+- Icon name must have the bundle ID of the application and suffixed with "@2x". 
+  - Default app icons with regular color must follow the naming format: *com.apple.Maps-default@2x.png*
+  - Stylable app icons must follow the naming format: *com.apple.Maps-styled@2x.png* and it must have a black fill, [for example](https://www.flaticon.com/free-icon/instagram_1384031).
 - Icon has to be an exact (or close enough) representation of the original app icon
